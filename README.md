@@ -8,7 +8,7 @@
 - ![HTML](https://img.shields.io/badge/HTML-5-orange) HTML5
 - ![CSS](https://img.shields.io/badge/CSS-3-blue) CSS3
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) JavaScript (ES6+)
-- ![React](https://img.shields.io/badge/React-16.13.1-lightblue) React.js
+- ![React](https://img.shields.io/badge/React-18.0.0-lightblue) React.js
 
 ---
 
