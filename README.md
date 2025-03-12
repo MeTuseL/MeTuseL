@@ -14,7 +14,6 @@
 
 ## 📦 **My NPM Package**  
 [**Custom Dropdown React Component**](https://www.npmjs.com/package/react-dropdown-metsel)  
-A custom dropdown component for React.
 
 ---
 
