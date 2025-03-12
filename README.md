@@ -31,14 +31,21 @@ Here are some of the recent projects I've worked on with passion and dedication:
 ### 🔹 **ArgentBank**  
 - **Description**: Developing a banking app using React and Redux.  
 - **Technologies**: React, Redux  
-- [**Repository**](https://github.com/MeTuseL/ArgentBank) | [**Website**](https://metusel.github.io/ArgentBank/)
+- [**Repository**](https://github.com/MeTuseL/ArgentBank) 
 
 ---
 
 ### 🔹 **Sportsee**  
 - **Description**: Developing the user profile page with advanced graphical elements.  
 - **Technologies**: React, Recharts  
-- [**Repository**](https://github.com/MeTuseL/SportSee) | [**Website**](https://metusel.github.io/SportSee/)
+- [**Repository**](https://github.com/MeTuseL/SportSee) 
+
+---
+
+### 🔹 **Les Petits Plats**  
+- **Description**: Develop a search feature.  
+- **Technologies**: Javascript  
+- [**Repository**](https://github.com/MeTuseL/Les-petits-plats) | [**Website**](https://metusel.github.io/Les-petits-plats/)
 
 ---
 
