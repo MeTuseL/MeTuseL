@@ -21,6 +21,13 @@
 
 Here are some of the recent projects I've worked on with passion and dedication:
 
+### 🔹 **Les Petits Plats**  
+- **Description**: Develop a search feature.  
+- **Technologies**: Javascript  
+- [**Repository**](https://github.com/MeTuseL/Les-petits-plats) | [**Website**](https://metusel.github.io/Les-petits-plats/)
+
+---
+
 ### 🔹 **HRnet**  
 - **Description**: Migrating a jQuery app to React.  
 - **Technologies**: React, jQuery, Redux  
@@ -39,13 +46,6 @@ Here are some of the recent projects I've worked on with passion and dedication:
 - **Description**: Developing the user profile page with advanced graphical elements.  
 - **Technologies**: React, Recharts  
 - [**Repository**](https://github.com/MeTuseL/SportSee) 
-
----
-
-### 🔹 **Les Petits Plats**  
-- **Description**: Develop a search feature.  
-- **Technologies**: Javascript  
-- [**Repository**](https://github.com/MeTuseL/Les-petits-plats) | [**Website**](https://metusel.github.io/Les-petits-plats/)
 
 ---
 
